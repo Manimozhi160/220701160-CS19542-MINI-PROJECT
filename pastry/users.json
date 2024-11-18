@@ -1,0 +1,21 @@
+[
+    {
+        "username": "Josh",
+        "email": "Josh@gmail.com",
+        "password": "$2y$10$NM4TkUY8YVWIghQJQGXW3.Jx\/pWTZbo8L.208v1LRSid1i.dSCBcu"
+    },
+    {
+        "username": "Clary",
+        "email": "clary@gmail.com",
+        "password": "$2y$10$pks8o\/Cqopr7.nHQu.ZZLeJblRUViriqr7Sc.JdrCOX3rj0WUzBt6"
+    },
+    {
+        "email": "monica@gmail.com",
+        "password": "$2y$10$eNtczlUto70hTEWsf.u0G.1jDkpzljmmSLoOdTVDxmJW5KTWAfmPS"
+    },
+    {
+        "username": "Izzy",
+        "email": "Izzy@gmail.com",
+        "password": "$2y$10$yc2GynDTJohOf9N3kpfNk.4fuJk.4jXGQkT.gijOz096CEMpmYUAu"
+    }
+]
